@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b15f6cc8-2c3c-46a8-af03-ee4fef17e6ed" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ywq/service/SpeakerServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ywq/service/SpeakerServiceImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +21,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="ProjectId" id="1adUtFHnree2uyy5L3rRU7DHke6" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -73,7 +82,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587065177254</updated>
-      <workItem from="1587065191094" duration="2192000" />
+      <workItem from="1587065191094" duration="3084000" />
+      <workItem from="1587220637643" duration="4037000" />
     </task>
     <servers />
   </component>
@@ -85,14 +95,38 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="560" y="205" key="#Project_Structure/0.0.1920.1080@0.0.1920.1080" timestamp="1587065476804" />
-    <state x="773" y="231" key="#com.intellij.ide.util.MemberChooser" timestamp="1587065574635">
+    <state x="424" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587222161796">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="773" y="231" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1587065574635" />
+    <state x="424" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1587222161796" />
+    <state x="773" y="231" key="#com.intellij.ide.util.MemberChooser" timestamp="1587223729508">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="773" y="231" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1587223729508" />
     <state x="527" y="472" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1587066176892">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="527" y="472" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1587066176892" />
+    <state width="1878" height="440" key="GridCell.Tab.0.bottom" timestamp="1587224970724">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="440" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1587224970724" />
+    <state width="1878" height="440" key="GridCell.Tab.0.center" timestamp="1587224970720">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="440" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1587224970720" />
+    <state width="1878" height="440" key="GridCell.Tab.0.left" timestamp="1587224970719">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="440" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1587224970719" />
+    <state width="1878" height="440" key="GridCell.Tab.0.right" timestamp="1587224970722">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="440" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1587224970722" />
+    <state x="610" y="241" key="NewModule_or_Project.wizard" timestamp="1587217211227">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="610" y="241" key="NewModule_or_Project.wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1587217211227" />
     <state x="448" y="121" key="SettingsEditor" timestamp="1587067052987">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
