@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b15f6cc8-2c3c-46a8-af03-ee4fef17e6ed" name="Default Changelist" comment="add constructor injection demo">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="b15f6cc8-2c3c-46a8-af03-ee4fef17e6ed" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AppConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Application.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +37,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -62,7 +62,7 @@
       <recent name="com.ywq.repository" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.EurekaServerApplication">
+  <component name="RunManager" selected="Application.Application">
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Application" />
       <module name="spring_demo" />
@@ -95,7 +95,7 @@
       <updated>1587065177254</updated>
       <workItem from="1587065191094" duration="3084000" />
       <workItem from="1587220637643" duration="9320000" />
-      <workItem from="1587313580441" duration="1138000" />
+      <workItem from="1587313580441" duration="2585000" />
     </task>
     <task id="LOCAL-00001" summary="add constructor injection demo">
       <created>1587302324768</created>
@@ -111,15 +111,34 @@
       <option name="project" value="LOCAL" />
       <updated>1587302348577</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add Bean scope demo and eurekaServer demo">
+      <created>1587315651363</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1587315651363</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add constructor injection demo" />
-    <option name="LAST_COMMIT_MESSAGE" value="add constructor injection demo" />
+    <MESSAGE value="add Bean scope demo and eurekaServer demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Bean scope demo and eurekaServer demo" />
   </component>
   <component name="WindowStateProjectService">
     <state x="560" y="205" key="#Project_Structure" timestamp="1587065476804">
@@ -134,46 +153,50 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="773" y="231" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1587302050517" />
+    <state x="648" y="283" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1587408932477">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="648" y="283" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1587408932477" />
     <state x="527" y="472" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1587066176892">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="527" y="472" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1587066176892" />
-    <state x="571" y="142" key="CommitChangelistDialog2" timestamp="1587302348282">
+    <state x="563" y="201" key="CommitChangelistDialog2" timestamp="1587315649172">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="571" y="142" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1587302348282" />
-    <state width="1878" height="440" key="GridCell.Tab.0.bottom" timestamp="1587315550227">
+    <state x="563" y="201" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1587315649172" />
+    <state width="1878" height="440" key="GridCell.Tab.0.bottom" timestamp="1587408986530">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="440" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1587315550227" />
-    <state width="1878" height="440" key="GridCell.Tab.0.center" timestamp="1587315550224">
+    <state width="1878" height="440" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1587408986530" />
+    <state width="1878" height="440" key="GridCell.Tab.0.center" timestamp="1587408986526">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="440" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1587315550224" />
-    <state width="1878" height="440" key="GridCell.Tab.0.left" timestamp="1587315550223">
+    <state width="1878" height="440" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1587408986526" />
+    <state width="1878" height="440" key="GridCell.Tab.0.left" timestamp="1587408986524">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="440" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1587315550223" />
-    <state width="1878" height="440" key="GridCell.Tab.0.right" timestamp="1587315550225">
+    <state width="1878" height="440" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1587408986524" />
+    <state width="1878" height="440" key="GridCell.Tab.0.right" timestamp="1587408986528">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="440" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1587315550225" />
-    <state width="1878" height="440" key="GridCell.Tab.1.bottom" timestamp="1587315550233">
+    <state width="1878" height="440" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1587408986528" />
+    <state width="1878" height="440" key="GridCell.Tab.1.bottom" timestamp="1587408986512">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="440" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1587315550233" />
-    <state width="1878" height="440" key="GridCell.Tab.1.center" timestamp="1587315550230">
+    <state width="1878" height="440" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1587408986512" />
+    <state width="1878" height="440" key="GridCell.Tab.1.center" timestamp="1587408986507">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="440" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1587315550230" />
-    <state width="1878" height="440" key="GridCell.Tab.1.left" timestamp="1587315550228">
+    <state width="1878" height="440" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1587408986507" />
+    <state width="1878" height="440" key="GridCell.Tab.1.left" timestamp="1587408986505">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="440" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1587315550228" />
-    <state width="1878" height="440" key="GridCell.Tab.1.right" timestamp="1587315550232">
+    <state width="1878" height="440" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1587408986505" />
+    <state width="1878" height="440" key="GridCell.Tab.1.right" timestamp="1587408986508">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="440" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1587315550232" />
+    <state width="1878" height="440" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1587408986508" />
     <state x="610" y="241" key="NewModule_or_Project.wizard" timestamp="1587217211227">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -182,10 +205,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="448" y="121" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1587309206006" />
-    <state x="560" y="280" key="Vcs.Push.Dialog.v2" timestamp="1587302418504">
+    <state x="560" y="280" key="Vcs.Push.Dialog.v2" timestamp="1587315675461">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="560" y="280" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1587302418504" />
+    <state x="560" y="280" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1587315675461" />
     <state x="653" y="372" key="com.intellij.ide.util.TipDialog" timestamp="1587313604499">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
