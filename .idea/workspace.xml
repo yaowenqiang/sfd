@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b15f6cc8-2c3c-46a8-af03-ee4fef17e6ed" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ywq/service/SpeakerServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ywq/service/SpeakerServiceImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,18 +24,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
-  </component>
   <component name="ProjectId" id="1adUtFHnree2uyy5L3rRU7DHke6" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -54,7 +49,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="ExtractSuperBase.RECENT_KEYS">
@@ -65,7 +60,7 @@
   <component name="RunManager" selected="Application.Application">
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Application" />
-      <module name="spring_demo" />
+      <module name="spring_framework" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -96,6 +91,9 @@
       <workItem from="1587065191094" duration="3084000" />
       <workItem from="1587220637643" duration="9320000" />
       <workItem from="1587313580441" duration="2585000" />
+      <workItem from="1587409849409" duration="738000" />
+      <workItem from="1587411710942" duration="685000" />
+      <workItem from="1587490426290" duration="1439000" />
     </task>
     <task id="LOCAL-00001" summary="add constructor injection demo">
       <created>1587302324768</created>
@@ -122,7 +120,7 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -134,6 +132,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add constructor injection demo" />
@@ -141,6 +140,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="add Bean scope demo and eurekaServer demo" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="636" y="159" key="#Application" timestamp="1587580837301">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="636" y="159" key="#Application/0.0.1920.1080@0.0.1920.1080" timestamp="1587580837301" />
     <state x="560" y="205" key="#Project_Structure" timestamp="1587065476804">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -149,14 +152,14 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="424" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1587313316797" />
-    <state x="773" y="231" key="#com.intellij.ide.util.MemberChooser" timestamp="1587302050517">
+    <state x="773" y="231" key="#com.intellij.ide.util.MemberChooser" timestamp="1587580542541">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="773" y="231" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1587302050517" />
-    <state x="648" y="283" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1587408932477">
+    <state x="773" y="231" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1587580542541" />
+    <state x="648" y="283" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1587410291228">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="648" y="283" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1587408932477" />
+    <state x="648" y="283" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1587410291228" />
     <state x="527" y="472" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1587066176892">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -201,10 +204,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="610" y="241" key="NewModule_or_Project.wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1587217211227" />
-    <state x="448" y="121" key="SettingsEditor" timestamp="1587309206006">
+    <state x="448" y="121" key="SettingsEditor" timestamp="1587490172327">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="448" y="121" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1587309206006" />
+    <state x="448" y="121" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1587490172327" />
     <state x="560" y="280" key="Vcs.Push.Dialog.v2" timestamp="1587315675461">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
