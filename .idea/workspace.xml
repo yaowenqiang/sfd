@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b15f6cc8-2c3c-46a8-af03-ee4fef17e6ed" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="b15f6cc8-2c3c-46a8-af03-ee4fef17e6ed" name="Default Changelist" comment="add Bean scope demo and eurekaServer demo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ywq/repository/HibernateSpeakerRepositoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ywq/repository/HibernateSpeakerRepositoryImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/ywq/service/SpeakerServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ywq/service/SpeakerServiceImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,7 +92,8 @@
       <workItem from="1587313580441" duration="2585000" />
       <workItem from="1587409849409" duration="738000" />
       <workItem from="1587411710942" duration="685000" />
-      <workItem from="1587490426290" duration="1439000" />
+      <workItem from="1587490426290" duration="1787000" />
+      <workItem from="1587818203446" duration="1347000" />
     </task>
     <task id="LOCAL-00001" summary="add constructor injection demo">
       <created>1587302324768</created>
